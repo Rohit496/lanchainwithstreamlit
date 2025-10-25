@@ -87,3 +87,10 @@ chromadb
 faiss-cpu
 langchain-ollama
 langchain-community
+watchdog
+matplotlib
+seaborn
+plotly
+rembg
+cartooner
+pymupdf
