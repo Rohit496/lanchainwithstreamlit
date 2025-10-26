@@ -1,9 +1,7 @@
 from langchain_openai import ChatOpenAI
-from dotenv import load_dotenv
 from openai import api_key
 import streamlit as st
 
-load_dotenv()
 
 st.title("Ask Anything")
 
