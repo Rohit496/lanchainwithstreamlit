@@ -94,3 +94,7 @@ plotly
 rembg
 cartooner
 pymupdf
+langchain-chroma
+pypdf
+wikipedia
+ddgs
